@@ -2,7 +2,7 @@
 
 1. Clone this repository
 ```
-$ git clone https://github.com/cbelda/docker-wordpress.git
+# git clone https://github.com/cbelda/docker-wordpress.git
 ```
 2. Start docker containers
 ```
